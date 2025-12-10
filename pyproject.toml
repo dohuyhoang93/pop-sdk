@@ -4,11 +4,11 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pop-sdk"
-version = "0.1.0"
+version = "0.1.1"
 description = "Process-Oriented Programming (POP) SDK for Python"
 readme = "README.md"
 authors = [
-  { name="Do Huy Hoang", email="dohuyhoang@example.com" },
+  { name="Do Huy Hoang", email="dohuyhoangvn93@gmail.com" },
 ]
 license = { file = "LICENSE" }
 classifiers = [
