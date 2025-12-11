@@ -1,0 +1,2 @@
+[console_scripts]
+pop = pop.cli:main
